@@ -1,0 +1,2 @@
+# llsfreenas
+lls FreeNAS setup
